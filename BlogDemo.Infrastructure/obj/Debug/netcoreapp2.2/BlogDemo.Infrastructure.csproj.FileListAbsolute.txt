@@ -1,0 +1,12 @@
+D:\TestDemo\BlogDemo\BlogDemo.Infrastructure\bin\Debug\netcoreapp2.2\BlogDemo.Infrastructure.deps.json
+D:\TestDemo\BlogDemo\BlogDemo.Infrastructure\bin\Debug\netcoreapp2.2\BlogDemo.Infrastructure.dll
+D:\TestDemo\BlogDemo\BlogDemo.Infrastructure\bin\Debug\netcoreapp2.2\BlogDemo.Infrastructure.pdb
+D:\TestDemo\BlogDemo\BlogDemo.Infrastructure\bin\Debug\netcoreapp2.2\BlogDemo.Core.dll
+D:\TestDemo\BlogDemo\BlogDemo.Infrastructure\bin\Debug\netcoreapp2.2\BlogDemo.Core.pdb
+D:\TestDemo\BlogDemo\BlogDemo.Infrastructure\obj\Debug\netcoreapp2.2\BlogDemo.Infrastructure.csprojAssemblyReference.cache
+D:\TestDemo\BlogDemo\BlogDemo.Infrastructure\obj\Debug\netcoreapp2.2\BlogDemo.Infrastructure.csproj.CoreCompileInputs.cache
+D:\TestDemo\BlogDemo\BlogDemo.Infrastructure\obj\Debug\netcoreapp2.2\BlogDemo.Infrastructure.AssemblyInfoInputs.cache
+D:\TestDemo\BlogDemo\BlogDemo.Infrastructure\obj\Debug\netcoreapp2.2\BlogDemo.Infrastructure.AssemblyInfo.cs
+D:\TestDemo\BlogDemo\BlogDemo.Infrastructure\obj\Debug\netcoreapp2.2\BlogDemo.Infrastructure.csproj.CopyComplete
+D:\TestDemo\BlogDemo\BlogDemo.Infrastructure\obj\Debug\netcoreapp2.2\BlogDemo.Infrastructure.dll
+D:\TestDemo\BlogDemo\BlogDemo.Infrastructure\obj\Debug\netcoreapp2.2\BlogDemo.Infrastructure.pdb
